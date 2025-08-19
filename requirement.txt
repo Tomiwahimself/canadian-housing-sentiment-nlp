@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+praw
+nltk
+spacy
+vaderSentiment
+matplotlib
+seaborn
+wordcloud
+python-dotenv
